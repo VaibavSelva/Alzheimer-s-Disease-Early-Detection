@@ -26,21 +26,21 @@ On the 48 samples of the EEG dataset (Non-Augmented), Few Shot Learning neural n
 
 Performance scores of chosen models on different subsets of training data  
 
-[![Different varieties of Machine Learning models are trained, and the best among them is selected and implemented as a combined classifier.](results/results_ml_bestmodels_for_combined_classifer.jpg)](results/results_ml_bestmodels_for_combined_classifer.jpg)  
+[![Different varieties of Machine Learning models are trained, and the best among them is selected and implemented as a combined classifier.](Alzheimers-Detection-using-ML-DL-technqiues-main/results/results_ml_bestmodels_for_combined_classifer.jpg)](Alzheimers-Detection-using-ML-DL-technqiues-main/results/results_ml_bestmodels_for_combined_classifer.jpg)  
 
 Performance scores of all the models  
 
-[![Performance scores](results/results_ml_models.jpg)](results/results_ml_models.jpg)  
+[![Performance scores](Alzheimers-Detection-using-ML-DL-technqiues-main/results/results_ml_models.jpg)](Alzheimers-Detection-using-ML-DL-technqiues-main/results/results_ml_models.jpg)  
 <br>
 **Few Shot Learning (Non - Augmented Dataset)** :  
 
 Architecture of Few Shot Siamese Network  
 
-![Alt Text](results/fewshot_model_arch.jpg)  
+![Alt Text](Alzheimers-Detection-using-ML-DL-technqiues-main/results/fewshot_model_arch.jpg)  
 
 Siamese Network Dissimilarity Scores  
 
-![Alt Text](results/results_fewshot.jpg)  
+![Alt Text](Alzheimers-Detection-using-ML-DL-technqiues-main/results/results_fewshot.jpg)  
 
 
 
